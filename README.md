@@ -178,5 +178,11 @@ Other info
 This software is distributed under [MIT license](http://www.opensource.org/licenses/mit-license.php),
  so feel free to integrate it in your commercial products.
 
+Zephyr addition
+---------------
+
+Note that this code has been updated to work with Zephyr and Bluetooth products
+by Laird Connectivity
+
 [1]: http://www.json.org/
 [2]: http://zserge.com/jsmn.html
